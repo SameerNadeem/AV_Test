@@ -1,1 +1,0 @@
-/home/user/ros2_ws/src/line_follower/launch/line_follower_launch.py
