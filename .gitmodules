@@ -1,0 +1,3 @@
+[submodule "cpbaja_test_commparams/CommParams"]
+	path = cpbaja_test_commparams/CommParams
+	url = https://github.com/CPBaja/CommParams.git
